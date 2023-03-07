@@ -7,7 +7,7 @@ This app allows users to perform basic arithmetic operations such as addition, s
 # Installation
 To run this app, you'll need to have Android Studio installed on your computer. Once you have Android Studio set up, you can clone this repository and open the project in Android Studio.
 
-## git clone https://github.com/your-username/calculator-app.git
+## git clone https://github.com/COLECTOR097/Calculator.git
 
 # Usage
 To use this app, simply enter two numbers and select an operation to perform. The result will be displayed on the screen.

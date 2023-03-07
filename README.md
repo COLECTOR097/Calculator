@@ -13,7 +13,7 @@ To run this app, you'll need to have Android Studio installed on your computer. 
 To use this app, simply enter two numbers and select an operation to perform. The result will be displayed on the screen.
 
 # Screenshots
-![alt text](relative/path/to/image.png)
+![alt text](Screenshot_20230307_095947.png)
 
 # Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.

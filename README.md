@@ -1,3 +1,22 @@
-# Calculator
+# Calculator App
+A simple calculator app built using Kotlin on Android Studio.
 
-This is simple calculator app wich i made in android studio.
+# Description
+This app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Users can enter two numbers and select an operation to perform.
+
+# Installation
+To run this app, you'll need to have Android Studio installed on your computer. Once you have Android Studio set up, you can clone this repository and open the project in Android Studio.
+
+## git clone https://github.com/your-username/calculator-app.git
+
+# Usage
+To use this app, simply enter two numbers and select an operation to perform. The result will be displayed on the screen.
+
+# Screenshots
+Include screenshots of your app to show what it looks like. You might want to include screenshots of the app in use, or screenshots of the different screens or features of the app.
+
+# Contributing
+Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.

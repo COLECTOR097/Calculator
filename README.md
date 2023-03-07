@@ -18,8 +18,8 @@ To use this app, simply enter two numbers and select an operation to perform. Th
 
 # Screenshots
 
-![alt text](screenShots/screenShot1.png)
-![alt text](screenShots/screenShot2.png)
+<img src="screenShots/screenShot1.png" width="200" height="200">
+<img src="screenShots/screenShot2.png" width="200" height="200">
 
 # Contributing
 

@@ -18,8 +18,10 @@ To use this app, simply enter two numbers and select an operation to perform. Th
 
 # Screenshots
 
-<img src="screenShots/screenShot1.png" width="200" height="200">
-<img src="screenShots/screenShot2.png" width="200" height="200">
+<div style={{display: 'flex'}}>
+  <img src="screenShots/screenShot1.png" width="130" height="200">
+<img src="screenShots/screenShot2.png" width="130" height="200">
+</div>
 
 # Contributing
 
